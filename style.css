@@ -58,13 +58,13 @@ body {
 
 .logo {
   align-self: center;
-  padding: 15px;
+  padding: 10px;
 }
 
 .icon {
   align-self: center;
   justify-content: center;
-  margin: 15px;
+  margin: 10px;
 }
 
 
@@ -131,8 +131,9 @@ form {
 }
 
 li {
-  font-size: 16px;
+  font-size: 18px;
   list-style-type: none;
+  font-family: Tahoma, Verdana, sans-serif;
   padding: 5px
 }
 
