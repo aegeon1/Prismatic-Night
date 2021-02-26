@@ -17,6 +17,7 @@
           <div class="icon"><img src="icons/code.svg"></div>
           <div class="bookmarks cod">
             <li><a class="bm" href="https://www.google.ca/">Google Search</a></li>
+            <li><a class="bm" href="https://search.modalogi.com">Searx Search</a></li>
             <li><a class="bm" href="https://www.google.ca/maps/">Google Maps</a></li>
             <li><a class="bm" href="https://mail.google.com">Gmail</a></li>
             <li><a class="bm" href="https://drive.google.com">Google Drive</a></li>
